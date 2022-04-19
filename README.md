@@ -25,6 +25,7 @@ Additional thanks to Lucas Almada, Marcelo Ribeiro, Renato Rocha, and Simon Born
 
 ## Funders
 CNPq Scholarship Holder (Doctoral Studies) from 2016 through 2019
+
 CAPES-PrInt Scholarship Holder (Techincal Training) in 2020
 ## Data
 Primary sources are available for online search at: https://docvirt.com/docreader.net/docmulti.aspx?bib=fgv_jt. The archive's metadata, image files, and text files are not public domain, therefore they are not available for download.
