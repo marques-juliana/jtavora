@@ -1,7 +1,10 @@
 # Doctoral Thesis
-<p>This is the repository for my doctoral thesis in Sociology at IESP-UERJ, Brazil, 2021.<br>
-Original Title in Portuguese: Disputas intra-elites e agendas distributivas no Brasil rural de 1920 a 1945: mineração de texto no Arquivo Juarez Távora.<br>
-Translated Title: Elites Disputes and distributive agendas in rural Brazil from 1920 to 1945: text mining in the Juarez Távora Archive.</p>
+This is the repository for my doctoral thesis in Sociology at IESP-UERJ, Brazil, 2021.
+
+Original Title in Portuguese: Disputas intra-elites e agendas distributivas no Brasil rural de 1920 a 1945: mineração de texto no Arquivo Juarez Távora.
+
+Translated Title: Elites Disputes and distributive agendas in rural Brazil from 1920 to 1945: text mining in the Juarez Távora Archive.
+
 ## People
 ### Author
 Juliana Marques da Silva
