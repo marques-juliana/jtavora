@@ -11,13 +11,18 @@ Juliana Marques da Silva
 ### Advisor
 Carlos Antonio Costa Ribeiro
 ### Evaluation Committee
-Carlos Antonio Costa Ribeiro (Advisor) / IESP-UERJ
-Adalberto Moreira Cardoso / IESP-UERJ
-Breno Marques Bringel / IESP-UERJ
-Mariana Miggiolaro Chaguri / UNICAMP
-João Marcelo Ehlert Maia / FGV CPDOC
+Carlos Antonio Costa Ribeiro (Advisor) - IESP-UERJ
+
+Adalberto Moreira Cardoso - IESP-UERJ
+
+Breno Marques Bringel - IESP-UERJ
+
+Mariana Miggiolaro Chaguri - UNICAMP
+
+João Marcelo Ehlert Maia - FGV CPDOC
 ### Contributors
 Additional thanks to Lucas Almada, Marcelo Ribeiro, Renato Rocha, and Simon Bornschier on whose work I have drawn directly or indirectly. 
+
 ## Funders
 CNPq Scholarship Holder (Doctoral Studies) from 2016 through 2019
 CAPES-PrInt Scholarship Holder (Techincal Training) in 2020
