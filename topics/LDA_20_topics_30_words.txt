@@ -1,0 +1,21 @@
+Topics found via LDA: 20_topics_30_words
+Topic #0:vi estado juarez interventor rio bahia cao geral ph ex ia uc chefe governo major brasil ser bem ge hoje santo caso tao ev ba acre espirito marques povo vem
+Topic #1:todos ser contra juarez todas rio povo dia outros partido nacional se presidente grande brasil governo campanha porque grupos outra fatos dois outro haver quanto pode bem deve vida toda
+Topic #2:rio juarez ser grande todos dia sendo pessoal contra afim governo dias hoje caso estado dois fazer major outros pois aqui parte mil ja carta tudo nome janeiro melhor general
+Topic #3:ja ia ax fe oi procedente ah ci ni ol fr vi im oc ot ps asa je ala ju ip sp ba nu ag fu ic sc iu vs
+Topic #4:juarez rio amigo carta brasil ministro general janeiro militar prezado coronel gabinete senhor estima guerra chefe agosto presidente admirador setembro agricultura honra novembro cordiais dia chile aqui outubro oportunidade fernandes
+Topic #5:estado ser contra governo fazer todos porque todas brasil apenas parte general outro quanto todo caso desse tudo grande cada bem maior militar vida toda preciso pode pois tanto outros
+Topic #6:estado militar chefe dia ser caso general contra governo exercito guerra presidente ministro amigo conhecimento maior comandante nome comando oficiais pois aqui escola policia dois ordem bem pessoa interventor poder
+Topic #7:todos grande bem ser porque governo presidente povo vida tudo campanha dar partido nacional aqui homens juarez nome outro eleitoral todo apenas frente candidato amigo sentido brasil toda carta maior
+Topic #8:grande tudo hoje cidade banco contra outro duas cujo ga pois dia rio ora apoio ser todo todos fazer desta valor fia nada tenente certo fim morro horas resposta elementos
+Topic #9:xa ia za gabinete estado secretario secretaria zi ox dia fla quo ato cai governador una presidente direito xd cem brasil uf casa general bahia cla bom grande pouco toa
+Topic #10:ser nacional governo brasil estados deve problema parte economia capital todos outro energia apenas desenvolvimento menos pode bem cada grande maior vista grandes dessa dentro outros unidos outras trabalho todas
+Topic #11:cos todos contra ser cada ia caso rio dentro meio chefe militar momento estado circulo hasta deve tia durante autoridade neste responsabilidade bem conforme certo escola armadas vida jau brasil
+Topic #12:general silva juarez francisco paulo rio are manoel luiz carlos pereira costa souza oliveira states santos pedro lima alves ferreira time vargas out up gomes rua grande country almeida ribeiro
+Topic #13:geral recebido resposta data documento texto natureza dia detalhe remetente numero fr assunto procedente ser interventor mora ordem federal mensageiro governo nota caso estado ab despacho vosso sendo afim hora
+Topic #14:juarez rio general procedente major geral interventor hora data norte motivo recife federal abrantes ia bahia recebido sede ec brasil western lima estado tenente vi cu peco rua responsabilidade ba
+Topic #15:chefe destino hora momento vivo solidariedade general juarez tanto digno integral vida estar vil certo dever plena militar pode testemunhar justo brasil neste detratores retirar david francas rua prezado tao
+Topic #16:art lei ser nacional conselho decreto obras artigo cada direito federal seguintes capital prazo geral forma presidente mediante rio caso acordo estado total transporte governo dentro projeto despesas outras pagamento
+Topic #17:hora telegrama departamento entrega data recibo indicar receber recebido contem juarez seguintes carimbo rio nacional imprensa horas numero guerra diretoria general palavras geral ia amigo chefe merecida justa sinceras engenharia
+Topic #18:todos brasil ser bem contra pois governo grande vida povo outros moral porque tudo estado homem parte nada nova tempo maior cada deve todo desta fazer autoridade homens vem poder
+Topic #19:ju governo caso povo ser bem estado interventor resposta natureza fim contra numero parte ponto outro porque todas assunto toda apenas nome documento chefe pode tempo necessidade todo junto sentido

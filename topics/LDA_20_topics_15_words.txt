@@ -1,0 +1,21 @@
+Topics found via LDA: 20_topics_15_words
+Topic #0:hora telegrama departamento entrega data recibo indicar receber contem seguintes juarez rio carimbo recebido nacional
+Topic #1:juarez rio major interventor rua general amigo governo estado chefe todos bem hoje carta norte
+Topic #2:general xa are juarez states rio out vargas time up country paulo getulio washington staff
+Topic #3:ia mil brasil dia tesouro tv cinco total dois oito delegacia estado quatro nova reis
+Topic #4:rio oi janeiro juarez ministro rua ah nome ni general brasil ut ia iu ja
+Topic #5:ax vi ia ser governo hoje tudo contra fazer ate homem todas todos estado cidade
+Topic #6:art ju ser lavra direito conselho artigo lei nacional caso prazo agricultura dentro pesquisa ata
+Topic #7:geral procedente ia recebido data fr rio juarez vi ba bahia fe ol im br
+Topic #8:juarez estado grande governo rio todos frente povo presidente campanha dia nacional hoje general contra
+Topic #9:silva manoel luiz francisco pereira costa ferreira oliveira pedro souza santos lima gomes alves carlos
+Topic #10:ser nacional lei governo capital obras transporte empresas decreto cada economia conselho art outras forma
+Topic #11:ja fe general juarez chefe destino vivo hora digno solidariedade vida estar momento tanto brasil
+Topic #12:juarez rio general guerra diretoria brasil militar honra recebido janeiro chefe estima nascimento fernandes coronel
+Topic #13:ser brasil estados grande governo grandes maior nacional problema pode menos parte deve outros outro
+Topic #14:ser presidente geral conselho ministro dois rio sendo tribunal processo chefe caso art ordem bem
+Topic #15:estado resposta dei interventor gabinete documento ministro natureza texto assunto detalhe remetente numero general federal
+Topic #16:amigo carta prezado admirador ser juarez aqui ministro rio chefe caro grande general bem camarada
+Topic #17:todos ser porque bem contra apenas vida quanto toda homens governo outro tudo dentro deve
+Topic #18:asa cavalcanti lima ov dia presidente brasil estado carlos povo vida governo todos bem brasileiros
+Topic #19:rio juarez motivo ec za sede western responsabilidade ps major general abrantes ia norte todos
